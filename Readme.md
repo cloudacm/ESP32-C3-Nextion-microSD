@@ -1,3 +1,5 @@
+From https://www.cloudacm.com/?p=5406
+
 The hardware used here is the Nextion HSD035383B4 which connects to a ESP32-C3 module. In addition, a SPI micro-SD module was attached to provide data logging.
 
 <img width="640" height="449" alt="Nextion_ESP32-C3_microSD" src="https://github.com/user-attachments/assets/053b0d2c-4386-41c7-9757-a0944dc30287" />

@@ -1,3 +1,9 @@
+The files contained in the repo:
+ESP32-C3-Devkit-Nextion-microSD_WifiScan1.ino.c: This is Arduino IDE code for the ESP32-C3 module
+consolas.zi: Nextion Editor font file
+Wifi - Scanner Demo.HMI: Nextion Editor project file
+Wifi - Scanner Demo.tft: Nextion display firmware compiled from the Nextion Editor
+
 From https://www.cloudacm.com/?p=5406
 
 The hardware used here is the Nextion HSD035383B4 which connects to a ESP32-C3 module. In addition, a SPI micro-SD module was attached to provide data logging.

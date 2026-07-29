@@ -1,8 +1,8 @@
-The files contained in the repo:
-ESP32-C3-Devkit-Nextion-microSD_WifiScan1.ino.c: This is Arduino IDE code for the ESP32-C3 module
-consolas.zi: Nextion Editor font file
-Wifi - Scanner Demo.HMI: Nextion Editor project file
-Wifi - Scanner Demo.tft: Nextion display firmware compiled from the Nextion Editor
+The files contained in the repo:<br>
+ESP32-C3-Devkit-Nextion-microSD_WifiScan1.ino.c: This is Arduino IDE code for the ESP32-C3 module<br>
+consolas.zi: Nextion Editor font file<br>
+Wifi - Scanner Demo.HMI: Nextion Editor project file<br>
+Wifi - Scanner Demo.tft: Nextion display firmware compiled from the Nextion Editor<br>
 
 From https://www.cloudacm.com/?p=5406
 
